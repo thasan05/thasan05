@@ -24,7 +24,6 @@ Skills: C++
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thasan05&show_icons=true&count_private=true)  
 
 
-![GitHub metrics](https://metrics.lecoq.io/thasan05)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thasan05)  
 
