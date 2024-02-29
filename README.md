@@ -1,6 +1,6 @@
 
 ### Hi there 👋, I'm Tanvir Hasan
-(https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/350299896_1271230630151044_2690998224584235615_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=BXkG0qGhU9gAX9Af3oU&_nc_ht=scontent.fdac24-2.fna&oh=00_AfCpCe9ZkGaxCZJA9jkMVEKo62_dRZn4QKXx1JW2JIporQ&oe=65E6777F)
+
 #### I am a C++ Programmer
 
 I'm currently learning C++ and exploring various subjects in CS field and getting surprised as always been!
