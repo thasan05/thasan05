@@ -23,7 +23,6 @@ Skills: C++
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thasan05&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/thasan05/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/thasan05)  
 
