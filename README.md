@@ -7,7 +7,7 @@ I'm currently learning C++ and exploring various subjects in CS field and gettin
 
 Skills: C++
 
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m currently learning C++, JAVA
 - 📫 How to reach me: I'm always available via my mail. 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I'm a  self taught drummer! 
