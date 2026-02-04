@@ -1,4 +1,4 @@
-# Hi, I'm Tanvir! 
+# Hi, I'm Tanvir! 👋
 
 **My Resume:** View PDF | Download  
 
@@ -6,7 +6,8 @@
 
 ## 🚀 About Me
 
-I'm a 3rd-year **Computer Science & Engineering** undergraduate at **American International University–Bangladesh (AIUB)**.  
+I'm a 3rd-year **Computer Science & Engineering** undergraduate at  
+**[American International University–Bangladesh (AIUB)](https://www.aiub.edu/)**.  
 I’m passionate about technology, software development, and problem-solving, and I enjoy working on projects that blend **engineering, systems, and real-world impact**.
 
 ---
