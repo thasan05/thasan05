@@ -1,4 +1,4 @@
-# Hi, I'm Tanvir! 👋
+# Hi, I'm Tanvir! 
 
 **My Resume:** View PDF | Download  
 
