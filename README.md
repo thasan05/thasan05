@@ -1,1 +1,37 @@
-<h2 align="center">Hi, I'm Tanvir Hasan 👋</h2> <p align="center"> CSE Undergraduate @ AIUB • Aspiring Software Engineer • Tech Enthusiast </p> <p align="center"> <a href="mailto:tanvirhasan.career@gmail.com"> <img src="https://img.shields.io/badge/Email-tanvirhasan.career@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/thasan05"> <img src="https://img.shields.io/badge/GitHub-thasan05-181717?style=for-the-badge&logo=github"/> </a> <a href="https://linkedin.com/in/thasan05"> <img src="https://img.shields.io/badge/LinkedIn-Tanvir%20Hasan-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="https://your-portfolio.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel"/> </a> </p> <p align="center"> <a href="https://www.hackerrank.com/thasan05"> <img src="https://img.shields.io/badge/HackerRank-thasan05-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/> </a> <a href="https://youtube.com/@yourchannel"> <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube"/> </a> </p> --- ### 👨‍💻 About Me - 🎓 3rd-year **Computer Science & Engineering** student at **AIUB** - 💡 Interested in **Web Development, Networking & Cloud** - 🚀 Building projects with **Next.js, C#, SQL Server, and Networking labs** - 🌱 Currently learning **CCNA, System Design & Modern Web Tech** - 📫 Reach me at **tanvirhasan.career@gmail.com** --- ### 🛠️ Tech Stack <p> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,cs,dotnet,sql,git,github,linux" /> </p> --- ### 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thasan05&show_icons=true&theme=transparent" /> </p>
+# Hi, I'm Tanvir! 👋
+
+**My Resume:** View PDF | Download  
+
+---
+
+## 🚀 About Me
+
+I'm a 3rd-year **Computer Science & Engineering** undergraduate at **American International University–Bangladesh (AIUB)**.  
+I’m passionate about technology, software development, and problem-solving, and I enjoy working on projects that blend **engineering, systems, and real-world impact**.
+
+---
+
+## 🔍 Interests & Skills
+
+- **Software Development** (C#, .NET, JavaScript, SQL)
+- **Web Development** (HTML, CSS, React, Next.js)
+- **Computer Networks & CCNA Fundamentals**
+- **Databases & System Design**
+- **Problem Solving & Competitive Programming (Basics)**
+
+---
+
+## 📬 How to Reach Me
+
+- **Email:** tanvirhasan.career@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/thasan05  
+- **GitHub:** https://github.com/thasan05  
+- **Portfolio:** (coming soon)
+
+---
+
+## ⚡ Fun Facts
+
+- I enjoy building clean, minimal projects rather than flashy ones  
+- Currently preparing for **CCNA** while managing a full semester  
+- I like optimizing workflows and systems (even outside code 😄)
