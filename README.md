@@ -26,7 +26,7 @@ I’m passionate about technology, software development, and problem-solving, an
 - **Email:** tanvirhasan.career@gmail.com  
 - **LinkedIn:** https://linkedin.com/in/thasan05  
 - **GitHub:** https://github.com/thasan05  
-- **Portfolio:** (coming soon)
+- **Portfolio:** tanvirh.vercel.app
 
 ---
 
